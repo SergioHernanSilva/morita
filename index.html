@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morita</title>
+    <link rel="icon" href="./images/iconlogo-morita.png" type="image/png">
+    <script src="https://kit.fontawesome.com/82ec409a6d.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+     <!--Navbar-->
+    <nav class="navbar">
+        <div class="navbar-center">
+            <span class="nav-icon">
+                <i class="fas fa-home"></i>
+            </span>
+            <img src="./images/moritalogo.png" alt="store logo">
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+     </nav>
+    <!--End of Navbar-->
+    <!--Hero-->
+    <header class="hero">
+        <div class="banner">
+            <h1 class="banner-title">almacén de plantas</h1>
+            <button class="banner-btn"><a class="link" href="#productos">ver</a></button>
+        </div>
+    </header>
+    <!--End of hero-->
+    <!--Products-->
+    <section class="products" id="productos">
+        <div class="section-title">
+            <h2>nuestros productos</h2>
+        </div>
+        <div class="products-center">
+            <!--single products-->
+            <article class="product">
+               <div class="img-container">
+                   <img src="./images/ceropegia.jpg" alt="producto" class="product-img">
+                   <button class="bag-btn" data-id="1">
+                       <i class="fas fa-shopping-cart"></i>
+                       añadir al carrito
+                   </button>
+               </div> 
+               <h3>queen bed</h3>
+               <h4>$16</h4>
+            </article>
+            <!--end of single products-->         
+        </div>
+    </section>
+    <!--End of Products-->
+    <!--Cart-->
+    <div class="cart-overlay">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fas fa-window-close"></i>
+            </span>
+            <h2>tu carrito</h2>
+            <div class="cart-content">
+            <!--Cart item-->
+
+            <!--End of Cart item-->
+            </div>
+            <div class="cart-footer">
+                <h3>tu total : $ <span class="cart-total">0</span></h3>
+                <button class="clear-cart banner-btn">vaciar carrito</button>
+            </div>
+        </div>
+    </div>
+    <!--Footer-->
+    <footer class="footer">
+        <div class="footer-redes">
+            <h2 class="footer-titulo">SEGUINOS</h2>
+            <ul>
+            <li><i class="fab fa-facebook-square"></i>/morita.plantitas</li>
+            <li><i class="fab fa-instagram"></i>@morita.plantitas</li>
+        </div>
+        <div class="footer-contacto">
+            <h2 class="footer-titulo">CONTACTO</h2>
+            <ul>
+            <li><i class="fas fa-at"></i>ventas@morita.com.ar</li>
+            <li><i class="fab fa-whatsapp"></i>+54 11 4586 2377</li>
+        </div>
+        <div>
+            <p>Trabajo final Javascript - Coderhouse</p>
+            <p>Fotografías: @kawaiigreenhouse</p>
+        </div>
+    </footer>
+    <!--End of Products-->
+    <script src="./js/app.js"></script>
+</body>
+</html>

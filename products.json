@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "ceropegia",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/ceropegia.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "rosario",
+        "price": 499,
+        "image": { "fields": { "file": { "url": "./images/rosario.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "columnea",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/columnea.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "photus",
+        "price": 479,
+        "image": { "fields": { "file": { "url": "./images/photus.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "alocacia amazonica.",
+        "price": 749,
+        "image": { "fields": { "file": { "url": "./images/alocacia-amazonica.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "ceriman",
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/ceriman.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "diefembachia",
+        "price": 999,
+        "image": { "fields": { "file": { "url": "./images/diefembachia.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "oreja elefante",
+        "price": 889,
+        "image": { "fields": { "file": { "url": "./images/oreja-elefante.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "besgonias",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/besgonias.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "euphorbias",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/euphorbias.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "helecho",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/helecho.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "peruviano",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/peruviano.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "aeonium",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/aeonium.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "cotyledon",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/cotyledon.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "echeverri",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/echeverri.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "green velvet",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/green-velvet.jpg" } } }
+      }
+    }
+  ]
+}
